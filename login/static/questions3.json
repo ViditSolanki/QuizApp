@@ -1,0 +1,43 @@
+
+[
+    {
+      "question": "Which is the first narrative feature film in India??",
+      "choice1": "Pundalik",
+      "choice2": "Alam Ara",
+      "choice3": "Don",
+      "choice4": "Sant Tukaram",
+      "answer": 1
+    },
+    {
+      "question": "What are John Abraham and Akshay Kumar's professions in Garam Masala?",
+      "choice1": "Reporter",
+      "choice2": "Professor",
+      "choice3": "Lawyer",
+      "choice4": "Photograph",
+      "answer": 3
+    },
+    {
+      "question": "In Harry Potter, who plays Nearly Headless Nick in the movie?",
+      "choice1": "Nicholas Cage",
+      "choice2": "John Hurt",
+      "choice3": "John Cleese",
+      "choice4": "Nick Nolte",
+      "answer": 4
+    },
+    {
+      "question": "Ghayal was directed by...?",
+      "choice1": "Mansoor Khan",
+      "choice2": "Yash Chopra",
+      "choice3": "Rajkumar Santoshi",
+      "choice4": "All",
+      "answer": 2
+    },
+    {
+      "question": "Name a movie where Shahrukh Khan was the villain?",
+      "choice1": "Baazigar",
+      "choice2": "Darr",
+      "choice3": "Deewana",
+      "choice4": "Ali",
+      "answer": 4
+    }
+  ]

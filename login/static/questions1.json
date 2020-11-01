@@ -1,0 +1,43 @@
+
+[
+  {
+    "question": "Who was Ash first pokemon?",
+    "choice1": "Pikachu",
+    "choice2": "butterfly",
+    "choice3": "bulbasaur",
+    "choice4": "charichad",
+    "answer": 1
+  },
+  {
+    "question": "What do you have to do with Pokemon?",
+    "choice1": "Snatch them",
+    "choice2": "Fetch them",
+    "choice3": "Catch them",
+    "choice4": "Hit them",
+    "answer": 3
+  },
+  {
+    "question": " Which of these ISN'T a type of Pokemon?",
+    "choice1": "Grass",
+    "choice2": "Fire",
+    "choice3": "Ice",
+    "choice4": "Rubber",
+    "answer": 4
+  },
+  {
+    "question": " Which team try to stole pokemon of others?",
+    "choice1": "Alpha",
+    "choice2": "Rocket",
+    "choice3": "Joker",
+    "choice4": "All",
+    "answer": 2
+  },
+  {
+    "question": " Which pokemon speak like humans?",
+    "choice1": "Pikachu",
+    "choice2": "butterfly",
+    "choice3": "bulbasaur",
+    "choice4": "Meauth",
+    "answer": 4
+  }
+]

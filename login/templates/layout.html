@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>{% block title %}{% endblock %}</title>
+<link rel="stylesheet" href="/static/forgot.css">
+</head>
+<body>
+<form method="POST">{% csrf_token %}
+<div class="forgot">
+	<div class="forgot-html">
+		<div class="forgot-form">
+			<h1><b>{% block h1 %}{% endblock %}</b></h1><br>
+			<div class="sign-in-htm">
+				<div class="group">
+                {% block content %}
+                {% endblock content %}
+			</div>
+		</div>
+	</div>
+</div>
+</form>
+</body>
+</html>

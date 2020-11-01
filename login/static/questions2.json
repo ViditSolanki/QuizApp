@@ -1,0 +1,43 @@
+
+[
+  {
+    "question": "In which year team india won worldcup?",
+    "choice1": "2010",
+    "choice2": "2011",
+    "choice3": "2012",
+    "choice4": "2013",
+    "answer": 2
+  },
+  {
+    "question": "Which is first Indian cricket tournament ?",
+    "choice1": "Bombay Triangular",
+    "choice2": "Bombay Series",
+    "choice3": "Pepsi Cup",
+    "choice4": "None",
+    "answer": 1
+  },
+  {
+    "question": " Indian played first test match against ________ ",
+    "choice1": "England",
+    "choice2": "Pakistan",
+    "choice3": "Sri-lanka",
+    "choice4": "Australia",
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is first Indian to score century in ODI ?",
+    "choice1": "Sachin Tendulkar",
+    "choice2": "Kapil Dev",
+    "choice3": "Dhoni",
+    "choice4": "Virat",
+    "answer": 2
+  },
+  {
+    "question": "Who is first Indian batsman to score 20 ducks ?",
+    "choice1": "Sachin Tendulkar",
+    "choice2": "Kapil Dev",
+    "choice3": "Dhoni",
+    "choice4": "Virat",
+    "answer": 1
+  }
+]
